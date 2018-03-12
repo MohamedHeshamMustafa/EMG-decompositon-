@@ -1,0 +1,12 @@
+EMG Decompostion (assignment 2)
+This assignment was made with the bonus part (hkmeans function)
+
+Important note
+
+1) After making moving average step on the signal, I noticed that the signal is shifted a little bit to the right which made it hard to draw the peaks on the raw data so I tried to delay the orginal signal to draw it and it worked
+
+
+2) The MUAPS from question one is the result of the smoothed data not the raw data as it should be however; I believe that it won`t make a big difference but you can notice in the detected MUAP that its not centered around 10 as it should be due to shifting that happened from smoothing the signal 
+
+
+
